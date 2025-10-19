@@ -1,6 +1,6 @@
 # Case de Business Intelligence: Análise Estratégica para E-commerce
 
-_Análise desenvolvida por: Carlos Ailton Porto de Melo | [LinkedIn]((https://www.linkedin.com/in/carlos-ailton/))_
+_Análise desenvolvida por: Carlos Ailton Porto de Melo |[https://www.linkedin.com/in/carlos-ailton/]
 
 ---
 
